@@ -1,0 +1,16 @@
+:host {
+    display: grid;
+    gap: 1em;
+}
+
+app-searchbar {
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    gap: 5em;
+    padding: 1em;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,8 @@
+{
+    "/API/*": {
+        "target": "https://exam-pool.herokuapp.com/",
+        "secure": false,
+        "changeOrigin": true, 
+        "logLevel": "debug"
+    }
+}

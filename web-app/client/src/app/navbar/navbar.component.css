@@ -1,0 +1,11 @@
+:host {
+    display: flex;
+    font-size: 1em;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+}
+
+p {
+    cursor: pointer;
+    padding: 1.5em 1em;
+}
