@@ -1,0 +1,21 @@
+{
+  "name": "load-balancer",
+  "version": "1.0.0",
+  "description": "This is the load balancer for the app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "AlayKharadi",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "http-proxy": "^1.18.1"
+  }
+}
