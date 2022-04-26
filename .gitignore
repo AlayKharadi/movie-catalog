@@ -1,0 +1,8 @@
+# the dependency folder for the node modules
+node_modules/
+
+# the environment variable file
+.env
+
+# mac
+.DS_Store
